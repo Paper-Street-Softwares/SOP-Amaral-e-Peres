@@ -20,7 +20,7 @@
   "hero": {
     "miniTag": "ESCRITÓRIO EM ITAPEMA - SC",
     "title": "Transformando conflitos em <span class=\"text-primary font-bold\">soluções reais</span>",
-    "subtitle": "Atuação ética e acessível para esclarecer seus direitos e conduzir seu caso com segurança e transparência.",
+    "subtitle": "Atuação ética e acessível para assegurar os seus direitos e conduzir seu caso com segurança e transparência.",
     "ctaButtonText": "Entrar em contato com o escritório",
     "obsHero": {
       "text": "Atendimento online para todo o Brasil"
@@ -28,47 +28,47 @@
   },
   "features": {
     "miniTag": "Áreas de Atuação",
-    "title": "Excelência jurídica em diversas especialidades",
-    "subtitle": "Conheça os ramos do Direito em que ofereço atuação técnica e dedicada.",
+    "title": "Atuação jurídica de alto nível com foco em performance e excelência técnica",
+    "subtitle": "Conheça as áreas do Direito que o nosso escritório atua.",
     "card1": {
       "title": "Direito Administrativo",
-      "subtitle": "Gestão jurídica em processos públicos e administrativos.",
+      "subtitle": "Processos contra Municípios, Estados, Distrito Federal e União.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
       "title": "Direito Cível",
-      "subtitle": "Atuação completa em conflitos e demandas do dia a dia.",
+      "subtitle": "Ações e defesas judiciais, execuções, recursos para os Tribunais Estaduais, Regionais, Distrital e Superiores – STJ e STF.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
       "title": "Direito do Consumidor",
-      "subtitle": "Defesa técnica em relações de consumo e responsabilidades.",
+      "subtitle": "Reclamações no PROCON, ações e defesas judiciais e assessoria preventiva para empresas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
       "title": "Direito de Família",
-      "subtitle": "Amparo jurídico em conflitos familiares e questões sensíveis.",
+      "subtitle": "Divórcio, partilha, união estável, pensão alimentícia, guarda, convivência, curatela e tomada de decisão apoiada.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
       "servicesButton": "A_Definir"
     },
     "card5": {
-      "title": "Direito Tributário (Extrajudicial)",
-      "subtitle": "Atuação preventiva em obrigações fiscais e regularizações.",
+      "title": "Direito Tributário",
+      "subtitle": "Atuação preventiva em obrigações fiscais e regularizações, defesas em ações judiciais tributárias propostas pela Fazenda Pública.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "Direito Tributário (Contencioso)",
-      "subtitle": "Defesa estratégica em litígios fiscais e discussões tributárias.",
+      "title": "Consultoria Jurídica",
+      "subtitle": "Análises contratuais, orientações preventivas, pareceres técnicos e suporte estratégico em diversas áreas do Direito.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -101,7 +101,7 @@
       "labelLinkedin": "Siga-me no Linkedin",
       "labelX": "Siga-me no X",
       "labelTikTok": "Siga-me no TikTok",
-      "labelWhatsapp": "Entre em contato agora"
+      "labelWhatsapp": "Agende a sua consulta"
     }
   },
   "news": {
@@ -115,14 +115,14 @@
     "title": "Excelência que nasce da união",
     "subtitle": "A união dos sócios combina experiência e estratégia para um atendimento jurídico ético e orientado aos melhores resultados.",
     "team1": {
-      "title": "Dra. Jhênifer Amaral do Nascimento <br/> <span class=\"text-[12px]\">OAB/SC 71.387</span>",
+      "title": "Dra. Jhênifer Amaral do Nascimento",
       "subtitle": "Sócia-fundadora do Escritório Amaral & Peres Advocacia e Consultoria Jurídica",
       "description": "Bacharel em Direito pela Universidade do Vale do Itajaí – UNIVALI. Especialista em Direito Civil e Processual Civil pela Legale Educacional. Sua atuação concentra-se, de forma predominante, nas áreas do Direito Público, com ênfase em questões envolvendo Administração Pública, controle de legalidade dos atos administrativos e tutela de garantias constitucionais.  <br/><br/> Também possui experiência relevante no âmbito do Direito Tributário, assessorando na análise de obrigações fiscais, na prevenção de contingências tributárias e na defesa de interesses em procedimentos administrativos e judiciais tributários, sempre com rigor técnico e observância estrita da legislação vigente.",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "team2": {
-      "title": " Dr. Thaynan Alécio Coelho Peres<br/> <span class=\"text-[12px]\">OAB/SC 71.151</span>",
+      "title": "Dr. Thaynan Alécio Coelho Peres",
       "subtitle": "Sócio-fundador do Escritório Amaral & Peres Advocacia e Consultoria Jurídica",
       "description": "Bacharel em Direito pela Universidade do Vale do Itajaí – UNIVALI. Especialista em Direito do Consumidor pela Faculdade Damásio. Atua majoritariamente no Direito Privado, com destaque para demandas de natureza civil, consumerista e familiar. <br/><br/> No Direito de Família, dedica-se à resolução técnica e humanizada de conflitos envolvendo alimentos, guarda, responsabilidade parental, divórcios e demais relações familiares, sempre pautado pela proteção da dignidade humana e pela aplicação criteriosa das normas vigentes. Sua prática é marcada pela precisão jurídica, postura resolutiva e firme defesa dos direitos dos consumidores e das partes vulneráveis nas relações privadas.",
       "buttonLabelModal": "A_Definir",
@@ -130,7 +130,8 @@
     }
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-bgSectionDark font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-bgSectionDark font-bold\">estamos te esperando.</span>",
+    "title": "<span class=\"text-bgSectionDark font-bold\">Enfrentando</span> um problema jurídico? Deixe que cuidamos disso<span class=\"text-bgSectionDark font-bold\"> para você!</span>",
+    "subtitle": "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
     "ctaButtonText": "Entre em Contato"
