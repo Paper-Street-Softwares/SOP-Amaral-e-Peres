@@ -51,7 +51,7 @@ export default function Faq({ colorMode }) {
               label={t("faq.paragraph")}
               colorMode={colorMode}
               color="bg-backgroundWpp"
-              textclassName="text-primary"
+              textclassName="text-white"
             />
           </Paragraphs>
         </MotionDivDownToUp>
