@@ -9,13 +9,14 @@ export const theme = {
       buttonColor: "#0C0A0A",
       minititleDark: "#0C0A0A", //bg minitag de seções claras
       minititle: "#0C0A0A", //bg minitag de seções escuras
+      backgroundWpp: "#25D366",
 
       secondary: "#000000",
 
       // Fundos de Seção
 
       bgSectionLight: "#FFFFFF",
-      bgSectionDark: "#0C0A0A",
+      bgSectionDark: "#737373",
       bgSectionOpacityLight: "#F7F7F7",
       bgFixedLight: "#E8E8E8",
       bgSectionOpacityDark: "#111111",

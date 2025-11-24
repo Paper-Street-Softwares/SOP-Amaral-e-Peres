@@ -66,8 +66,8 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "Amaral & Peres",
   email: "contato", // Email desejado pelo cliente
-  emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "amaraleperesadvs.com.br", // Sem "www"
+  emailSecundario: "amaraleperes.advs@gmail.com", // Email desejado pelo cliente
+  domain: "", // Sem "www"
   phone: {
     ddd: "47",
     firstPart: "99638", // Apenas os 5 primeiros números (incluindo o 9)
