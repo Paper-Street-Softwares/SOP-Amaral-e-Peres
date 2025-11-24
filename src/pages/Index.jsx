@@ -5,7 +5,6 @@ import Steps from "../components/sections/Steps";
 import Features from "../components/sections/Features";
 import Navbar from "../components/sections/NavbarSocial";
 import FooterSocial from "../components/sections/FooterSocial";
-import AboutInstagram from "../components/sections/AboutInstagram";
 import BackToTopButton from "../components/interactives/BackToTopButton";
 import FloatingWhatsappButton from "../components/interactives/FloatingWhatsappButton";
 import Maps from "../components/sections/Maps";
@@ -19,6 +18,8 @@ import { useColorMode } from "../assets/context/ColorModeContext";
 import News from "../components/sections/News";
 import Testimonial from "../components/sections/lp01/Testimonials";
 import Team from "../components/sections/Team";
+import AboutWpp from "../components/sections/AboutInstagram";
+import AboutSocial from "../components/sections/AboutSocial";
 
 export default function Index() {
   const showUnderConstruction = false;
@@ -75,7 +76,9 @@ export default function Index() {
         iconsWithModal={false}
       />
       <About modal={true} showGallery={false} colorMode={colorMode} />
-      <AboutInstagram colorMode={colorMode} socialPrint={true} />
+      <AboutSocial colorMode={colorMode} socialPrint={true} />
+      <AboutWpp colorMode={colorMode} socialPrint={false} />
+
       <Team />
       <CtaSecondary colorMode={colorMode} />
       <Steps colorMode={colorMode} />
