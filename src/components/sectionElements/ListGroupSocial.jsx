@@ -132,14 +132,14 @@ export default function ListGroupSocial({
             label={t("navbar.ctaButtonTextResponsive")}
             className=""
             color="bg-backgroundWpp"
-            textclassName="text-paragraph3 text-primary"
+            textclassName="text-paragraph3 text-white"
             size="small"
             icon={
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="18"
                 height="18"
-                fill="black"
+                fill="white"
                 className="bi bi-whatsapp"
                 viewBox="0 0 18 18"
               >
