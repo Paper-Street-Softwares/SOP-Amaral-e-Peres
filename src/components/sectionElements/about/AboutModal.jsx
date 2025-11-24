@@ -53,7 +53,7 @@ export default function AboutModal() {
               label={t("about.ctaButtonText")}
               animation={false}
               className="hover:scale-105"
-              color="bg-backgroundWpp"
+              color="bg-aboutModal"
               textclassName="text-white"
               icon={
                 <svg

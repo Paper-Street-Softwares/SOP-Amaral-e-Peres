@@ -10,6 +10,7 @@ export const theme = {
       minititleDark: "#0C0A0A", //bg minitag de seções claras
       minititle: "#0C0A0A", //bg minitag de seções escuras
       backgroundWpp: "#25D366",
+      aboutModal: "#25D366",
 
       secondary: "#000000",
 
