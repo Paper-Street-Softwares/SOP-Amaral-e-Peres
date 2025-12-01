@@ -21,7 +21,7 @@ export default function AboutWpp({ socialPrint, colorMode }) {
   };
   const textClasses = {
     dark: "text-white",
-    light: "text-secondary",
+    light: "text-white",
     default: "text-white",
   };
   const bgClass = bgClasses[colorMode] || bgClasses.default;

@@ -21,7 +21,7 @@ export default function Faq({ colorMode }) {
   };
   const textClasses = {
     dark: "text-white",
-    light: "text-secondary",
+    light: "text-white",
     default: "text-black",
   };
   const bgClass = bgClasses[colorMode] || bgClasses.default;

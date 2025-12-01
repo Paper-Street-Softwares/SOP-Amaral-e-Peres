@@ -9,7 +9,7 @@ function ParagraphsAboutSocial() {
 
   return (
     <MotionDivDownToUp>
-      <Paragraphs className="text-black text-opacity-80 mb-[48px] text-justify">
+      <Paragraphs className="text-white text-opacity-80 mb-[48px] text-justify">
         {t("about.aboutWpp.paragraph")}{" "}
       </Paragraphs>
     </MotionDivDownToUp>

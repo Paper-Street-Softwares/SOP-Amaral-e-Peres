@@ -19,7 +19,7 @@
   },
   "hero": {
     "miniTag": "ESCRITÓRIO EM ITAPEMA - SC",
-    "title": "Transformando conflitos em <span class=\"text-primary font-bold\">soluções reais</span>",
+    "title": "",
     "subtitle": "Atuação ética e acessível para assegurar os seus direitos e conduzir seu caso com segurança e transparência.",
     "ctaButtonText": "Entrar em contato com o escritório",
     "obsHero": {
@@ -86,10 +86,10 @@
     },
     "miniTag": "QUEM É O AMARAL & PERES ADVOCACIA",
     "title": "Nossa trajetória",
-    "subtitle": "Construímos uma advocacia ética, humana e dedicada ao seu caso",
+    "subtitle": "Desde o início da graduação, a Dra. Jhênifer Amaral e o Dr. Thaynan Peres uniram propósitos e sonhos: estudar juntos, seguir a advocacia com ética e idealizar o próprio escritório. Entre aulas e longas conversas, descobriram vocações complementares, ela voltada ao Direito Público e ele ao Direito Privado, formando uma parceria sólida desde o princípio.",
     "buttonModalLabelAbout": "Continuar lendo",
     "paragraph": "Desde o início da graduação, a Dra. Jhênifer Amaral e o Dr. Thaynan Peres uniram propósitos e sonhos: estudar juntos, seguir a advocacia com ética e idealizar o próprio escritório. Entre aulas e longas conversas, descobriram vocações complementares — ela voltada ao Direito Público e ele ao Direito Privado — formando uma parceria sólida desde o princípio.",
-    "modal": "Desde o início da graduação, a Dra. Jhênifer Amaral e o Dr. Thaynan Peres uniram propósitos e sonhos: estudar juntos, seguir a advocacia com ética e idealizar o próprio escritório. Entre aulas e longas conversas, descobriram vocações complementares — ela voltada ao Direito Público e ele ao Direito Privado — formando uma parceria sólida desde o princípio. <br/><br/> A dedicação mútua os levou à aprovação conjunta no Exame da OAB, culminando nas inscrições OAB/SC nº 71.387 e nº 71.151. A partir dali, a vontade de transformar conhecimento em impacto real ganhou forma, dando origem ao Amaral & Peres Advocacia, uma sociedade construída sobre disciplina, qualidade, moralidade e eficiência. <br/><br/> Hoje, o escritório atua com atendimento individualizado, linguagem simples e acessível, escuta ativa e foco em soluções práticas. Acolhemos cada cliente com empatia, clareza e dedicação, buscando reduzir inseguranças jurídicas, esclarecer direitos e entregar resultados tangíveis, sempre com uma advocacia moderna, humana e realmente presente. <br/><br/>",
+    "modal": "Desde o início da graduação, a Dra. Jhênifer Amaral e o Dr. Thaynan Peres uniram propósitos e sonhos: estudar juntos, seguir a advocacia com ética e idealizar o próprio escritório. Entre aulas e longas conversas, descobriram vocações complementares, ela voltada ao Direito Público e ele ao Direito Privado, formando uma parceria sólida desde o princípio. <br/><br/> A dedicação mútua os levou à aprovação conjunta no Exame da OAB, culminando nas inscrições OAB/SC nº 71.387 e nº 71.151. A partir dali, a vontade de transformar conhecimento em impacto real ganhou forma, dando origem ao Amaral & Peres Advocacia, uma sociedade construída sobre disciplina, qualidade, moralidade e eficiência. <br/><br/> Hoje, o escritório atua com atendimento individualizado, linguagem simples e acessível, escuta ativa e foco em soluções práticas. Acolhemos cada cliente com empatia, clareza e dedicação, buscando reduzir inseguranças jurídicas, esclarecer direitos e entregar resultados tangíveis, sempre com uma advocacia moderna, humana e realmente presente.",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutWpp": {
@@ -123,17 +123,17 @@
   },
   "team": {
     "miniTag": "NOSSO TIME",
-    "title": "Excelência que nasce da união",
-    "subtitle": "A união dos sócios combina experiência e estratégia para um atendimento jurídico ético e orientado aos melhores resultados.",
+    "title": "Conte com nossa equipe",
+    "subtitle": "Nosso escritório é o caminho mais rápido para você solucionar os seus problemas jurídicos.",
     "team1": {
-      "title": "Dra. Jhênifer Amaral do Nascimento",
+      "title": "Dra. Jhênifer Amaral",
       "subtitle": "Sócia-fundadora do Escritório Amaral & Peres Advocacia e Consultoria Jurídica",
       "description": "Bacharel em Direito pela Universidade do Vale do Itajaí – UNIVALI. Especialista em Direito Civil e Processual Civil pela Legale Educacional. Sua atuação concentra-se, de forma predominante, nas áreas do Direito Público, com ênfase em questões envolvendo Administração Pública, controle de legalidade dos atos administrativos e tutela de garantias constitucionais.  <br/><br/> Também possui experiência relevante no âmbito do Direito Tributário, assessorando na análise de obrigações fiscais, na prevenção de contingências tributárias e na defesa de interesses em procedimentos administrativos e judiciais tributários, sempre com rigor técnico e observância estrita da legislação vigente.",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "team2": {
-      "title": "Dr. Thaynan Alécio Coelho Peres",
+      "title": "Dr. Thaynan Peres",
       "subtitle": "Sócio-fundador do Escritório Amaral & Peres Advocacia e Consultoria Jurídica",
       "description": "Bacharel em Direito pela Universidade do Vale do Itajaí – UNIVALI. Especialista em Direito do Consumidor pela Faculdade Damásio. Atua majoritariamente no Direito Privado, com destaque para demandas de natureza civil, consumerista e familiar. <br/><br/> No Direito de Família, dedica-se à resolução técnica e humanizada de conflitos envolvendo alimentos, guarda, responsabilidade parental, divórcios e demais relações familiares, sempre pautado pela proteção da dignidade humana e pela aplicação criteriosa das normas vigentes. Sua prática é marcada pela precisão jurídica, postura resolutiva e firme defesa dos direitos dos consumidores e das partes vulneráveis nas relações privadas.",
       "buttonLabelModal": "A_Definir",
@@ -141,7 +141,7 @@
     }
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-bgSectionDark font-bold\">Enfrentando</span> um problema jurídico? Deixe que cuidamos disso<span class=\"text-bgSectionDark font-bold\"> para você!</span>",
+    "title": "<span class=\"text-primary font-bold\">Enfrentando</span> um problema jurídico? Deixe que cuidamos disso<span class=\"text-primary font-bold\"> para você!</span>",
     "subtitle": "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
