@@ -31,7 +31,7 @@ export default function Hero({
   // Cores de acordo com o tema
   const backgroundClasses = {
     dark: "bg-bgFixedDark",
-    light: "bg-bgFixedLight",
+    light: "bg-bgFixedLightHero",
     default: "bg-bgSectionDark",
   };
   const bgGradient = backgroundClasses[colorMode] || backgroundClasses.default;

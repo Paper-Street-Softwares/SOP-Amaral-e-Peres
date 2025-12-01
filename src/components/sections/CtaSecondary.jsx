@@ -19,7 +19,7 @@ export default function CtaSecondary({ colorMode }) {
   };
   const textClasses = {
     dark: "text-white",
-    light: "text-black",
+    light: "text-white",
     default: "text-black",
   };
   const bgClass = bgClasses[colorMode] || bgClasses.default;

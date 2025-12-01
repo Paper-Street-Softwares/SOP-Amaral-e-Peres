@@ -33,7 +33,7 @@ export default function FooterSocial({
       break;
     case "light":
       footerBackground = "bg-bgFixedLight";
-      textColor = "text-black";
+      textColor = "text-white";
       break;
     default:
       footerBackground = "bg-bgSectionDark";
