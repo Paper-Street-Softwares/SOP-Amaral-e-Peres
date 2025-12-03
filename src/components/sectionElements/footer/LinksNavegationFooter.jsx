@@ -23,10 +23,14 @@ function LinksNavegationFooter({ mode = "blog" }) {
   const firstHalf = visibleLinks.slice(0, half);
   const secondHalf = visibleLinks.slice(half);
 
+  // 🔥 NOVO handleScroll com OFFSET
   const handleScroll = (id) => {
     const el = document.getElementById(id);
     if (el) {
-      el.scrollIntoView({ behavior: "smooth", block: "start" });
+      const yOffset = -108; // <<< ajuste aqui o quanto quer subir
+      const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
+      window.scrollTo({ top: y, behavior: "smooth" });
     }
   };
 
