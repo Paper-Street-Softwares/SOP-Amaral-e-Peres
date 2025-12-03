@@ -63,7 +63,7 @@ export default function Hero({
         </MotionDivDownToUp>
 
         <MotionDivDownToUp>
-          <div className="flex justify-center w-full text-center desktop1:text-left desktop1:justify-start font-secondFont text-paragraph4 phone3:text-paragraph5">
+          <div className="flex justify-center w-full text-center desktop1:text-left desktop1:justify-start font-secondFont text-title3 leading-7 phone3:text-title5 phone3:leading-10">
             <p className={`mb-[32px] ${subtitleTextColor}`}>
               {t("hero.subtitle")}
             </p>
@@ -149,9 +149,9 @@ export default function Hero({
       minititleColor: isMobile
         ? "bg-minititle text-minititleLightLabel"
         : "bg-minititle text-minititleDarkLabel",
-      titleTextColor: "text-black",
-      subtitleTextColor: "text-black",
-      obsTextColorOverride: "text-black",
+      titleTextColor: "text-white",
+      subtitleTextColor: "text-white",
+      obsTextColorOverride: "text-white",
     });
   }
 
